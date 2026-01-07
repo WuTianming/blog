@@ -1,5 +1,5 @@
 ---
-title: This is the title for the blog
+title: Home Page
 ---
 
-This is a page that's supposed to show "the content you want on your homepage".
+This is a home page header..

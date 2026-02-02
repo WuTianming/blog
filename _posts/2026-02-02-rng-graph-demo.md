@@ -9,7 +9,7 @@ This post showcases a tiny JS port of my RNG graph builder and search. The visua
 
 <iframe
   src="{{ '/assets/rng-demo/demo/' | relative_url }}"
-  style="width: 100%; height: 720px; border: 1px solid #d9d2c5;"
+  style="width: 100%; height: 820px; border: 1px solid #d9d2c5; overflow: hidden;"
   loading="lazy"
 ></iframe>
 
